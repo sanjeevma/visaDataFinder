@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /$
+Allow: /index$
+Disallow: /privacy
+Disallow: /about
+Disallow: /contact
+Disallow: /tos
+Disallow: /disclaimer
